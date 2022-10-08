@@ -1,6 +1,6 @@
-public class Task2 {
+public class Task6 {
     public static void main(String[] args) {
-        for (int i = 10; i >= 1; i--){
+        for (int i = 7; i <= 98; i += 7){
             System.out.println(i);
         }
     }
